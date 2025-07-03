@@ -28,3 +28,4 @@
 /Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/gato_con_liz/gaton/obj/Debug/net8.0/gaton.pdb
 /Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/gato_con_liz/gaton/obj/Debug/net8.0/gaton.genruntimeconfig.cache
 /Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/gato_con_liz/gaton/obj/Debug/net8.0/ref/gaton.dll
+/Users/dust/Documents/Programacion/12_cuatrimestre/Sistemas_propietarios_III/gato_con_liz/gaton/obj/Debug/net8.0/gaton.sourcelink.json
